@@ -1,2 +1,2 @@
 # Service-Trainer
-API using the fibre framework
+CRUD API using the fibre framework
